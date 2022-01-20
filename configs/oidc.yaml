@@ -18,9 +18,9 @@ Redis:
   Connections: 10
 
 OIDC:
-  Provider: https://sso-int.daimler.com
-  ClientId: 7ece1151-b0fd-4143-bcbc-ba8b19836cd7
-  ClientSecret: ffeb07d5-b5eb-42f8-8830-b34dc2769dcb
+  Provider: 
+  ClientId: 
+  ClientSecret: 
   RedirectURL: https://localhost:4200/login
   Scopes:
     - openid
